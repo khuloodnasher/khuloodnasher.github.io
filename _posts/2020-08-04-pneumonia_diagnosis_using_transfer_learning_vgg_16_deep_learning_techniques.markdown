@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pneumonia Diagnosis Using Transfer Learning VGG 16 Deep Learning Techniques"
-date:       2020-08-04 14:39:12 +0000
+date:       2020-08-04 10:39:13 -0400
 permalink:  pneumonia_diagnosis_using_transfer_learning_vgg_16_deep_learning_techniques
 ---
 
