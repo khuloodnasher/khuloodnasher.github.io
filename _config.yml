@@ -1,11 +1,11 @@
 # Site settings
 author: Khulood Nasher
-title: 
+title: Telecom Churn Prediction
 header-img: img/home-bg.png
 email: khuloodnasher@yahoo.com
 copyright_name: Khulood Nasher
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why is it important to calculate customer churn?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  khuloodnasher
